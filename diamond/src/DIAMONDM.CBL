@@ -16,7 +16,7 @@
            01 TESTs PIC A(51).
 
            01  TEMP-FELDER.
-                  05 HOEHE PIC 99.
+               05 HOEHE PIC 99.
                05 AUSGABE OCCURS 40.
                07 ZEILE PIC X(40).
 
