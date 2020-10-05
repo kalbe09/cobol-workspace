@@ -60,4 +60,7 @@
            MOVE ALL "2B" TO SampleData
            DISPLAY "Pattern: " SampleData
 
+
+           DISPLAY PayCheck
+
            STOP RUN.

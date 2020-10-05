@@ -1,4 +1,6 @@
            TESTSUITE 'Beispiel Testsuite'
 
-           TESTCASE 'Beispiel Testcase'
-           Display 'Das ist ein Testcase'
+           TESTCASE 'Leere Hand'
+           MOVE SPACES TO HAND
+           EXPECT AUSGABE TO BE "Leere Hand"
+           
